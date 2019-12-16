@@ -1,2 +1,2 @@
-# c19-assignment
-assignment
+# staticSquare
+A static square made using Matter.js physics engine
